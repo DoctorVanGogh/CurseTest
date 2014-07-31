@@ -1,0 +1,3 @@
+[submodule "CurseTest/Loop"]
+	path = CurseTest/lib/Loop
+	url = git@github.com:DoctorVanGogh/Loop.git
